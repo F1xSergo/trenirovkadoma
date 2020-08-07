@@ -1,4 +1,4 @@
-package trenirovkadoma.algoritmyistructurydannyh;
+package edu.trenirovkadoma.algoritmyistructurydannyh;
 
 import java.util.Arrays;
 import java.util.Collections;
